@@ -1,0 +1,3 @@
+首先需要安装Anaconda,可以选择从国外镜像下载，或者国内清华镜像。
+第一步完成之后，开始安装TensorFlow，此环境是为了支持机器语言。
+安装好之后打开AnaConda Navigator，打开jupyter开始编写语言。
